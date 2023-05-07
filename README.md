@@ -3,7 +3,7 @@
 <p align="center">👋 Hi, I am as Shan, a coding enthusiast.<p>
 
 ## Skills
-<img width="20" src="https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg.png" /> Java
+<img width="20" src="[https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg.png](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)" /> Java
 
 <img width="20" src="https://en.wikipedia.org/wiki/Python_(programming_language)#/media/File:Python-logo-notext.svg.png" /> Python
 
