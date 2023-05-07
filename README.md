@@ -5,7 +5,7 @@
 ## Skills
 <img width="20" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" /> Java
 
-<img width="20" src="https://en.wikipedia.org/wiki/Python_(programming_language)#/media/File:Python-logo-notext.svg.png" /> Python
+<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> Python
 
 ## How to Reach me?
 - Discord: Shan#5336
